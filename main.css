@@ -11,7 +11,7 @@
   height: 100vh;
 }
 .calculator {
-  background-color: #22252d;
+  background-color: rgb(32, 35, 42);
   width: 100%;
   max-width: 375px;
   min-height: 640px;
