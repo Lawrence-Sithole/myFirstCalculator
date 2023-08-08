@@ -52,7 +52,7 @@
 }
 
 .display .operator {
-  color: #eb6666;
+  color: rgb(254, 132, 38);
 }
 
 .display .brackets,
@@ -100,7 +100,7 @@
 }
 
 .keys .key.operator span {
-  color: #eb6666;
+  color: rgb(254, 132, 38);
 }
 
 .keys .key.action span {
